@@ -1,3 +1,5 @@
+https://takagotch.github.io/page501
+
 # Cause
 
 Not for profit themed template for Jekyll. Browse through a [live demo](https://clean-oryx.cloudvent.net/).
