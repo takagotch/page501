@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: TKV
+title: クリエイター公式事務所
 url: https://takagotch.github.io
 baseurl: /page501
 google_analytics_key:
@@ -14,7 +14,7 @@ author:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: tkgcci
+  name: Garden Salon Stadio
   links:
     - https://github.com/CloudCannon/cause-jekyll-template
 
